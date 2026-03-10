@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+data/real/
+data/synthetic/
+data/checkpoints/*.pt
+data/checkpoints/*.pth
+*.DS_Store
+notebooks/.ipynb_checkpoints/
